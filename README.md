@@ -21,6 +21,8 @@ A **Data Scientist** saving the world one dataset at a time.
 
 ### 📊 GitHub Stats
 ![anihlythics's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anihlythics&show_icons=true&hide=issues)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anihlythics&show_icons=true&theme=radical)
+
 
 ### 🖥 Most Used Languages
 

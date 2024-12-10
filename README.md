@@ -2,7 +2,7 @@
 
 A **Data Scientist** saving the world one dataset at a time.
 
-<img src="https://github.com/anihlythics.png" alt="John Anih" align="right" width="150"/>
+<img src="https://github.com/anihlythics.png" alt="John Anih" align="left" width="350"/>
 
 ### 🌟 About Me
 - 🎤 Fun fact: I am business-oriented and I play soccer.

@@ -1,4 +1,4 @@
-<img src="https://github.com/anihlythics.png" alt="John Anih" align="left" width="235"/>
+<img src="https://github.com/anihlythics.png" alt="John Anih" align="left" width="215"/>
 
 
 

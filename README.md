@@ -3,7 +3,7 @@
 A **Data Scientist** saving the world one dataset at a time.
 
 ### 🌟 About Me
-- 🎤 Fun fact: I am business-oriented and play soccer.
+- 🎤 Fun fact: I am business-oriented and I play soccer.
 - 🔍 Passionate about solving complex problems through data analytics.
 
 ### 📫 Socials

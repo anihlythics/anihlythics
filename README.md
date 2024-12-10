@@ -2,8 +2,8 @@
 
 # Hello there 👋, I'm John Chibuzor Anih (aka Anihlythics)
 
-#**About ME**
-A **Data Scientist** saving the world one dataset at a time.
+#**About ME:**
+ A **Data Scientist** saving the world one dataset at a time.
 
 - 🎤 Fun fact: I am business-oriented and I play soccer.
 - 🔍 Passionate about solving complex problems through data analytics.

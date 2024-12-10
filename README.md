@@ -24,5 +24,11 @@ A **Data Scientist** saving the world one dataset at a time.
 
 ### 🖥 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anihlythics&layout=compact)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anihlythics&layout=compact&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anihlythics&layout=compact&hide=html,css&theme=radical)
+
+
 ---
 

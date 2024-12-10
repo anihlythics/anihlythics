@@ -15,7 +15,7 @@
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python)
-![MSExcel](https://img.shields.io/badge/-Excel-brown?logo=microsoftexcel)
+![Excel](https://img.shields.io/badge/-Microsoft%20Excel-green?logo=microsoft-excel)
 ![SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-red?logo=microsoftsqlserver)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ash?logo=javascript)
 ![SAS](https://img.shields.io/badge/-SAS-green?logo=sas)

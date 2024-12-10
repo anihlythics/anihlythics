@@ -15,8 +15,9 @@
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python)
+![Excel](https://img.shields.io/badge/-Python-brown?logo=excel)
 ![SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-red?logo=microsoftsqlserver)
-![NumPy](https://img.shields.io/badge/-NumPy-blue?logo=numpy)
+![SAS](https://img.shields.io/badge/-NumPy-blue?logo=sas)
 ![Pandas](https://img.shields.io/badge/-Pandas-purple?logo=pandas)
 ![Tableau](https://img.shields.io/badge/-Tableau-orange?logo=tableau)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?logo=powerbi)

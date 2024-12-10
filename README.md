@@ -17,7 +17,7 @@
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python)
 ![Excel](https://img.shields.io/badge/-Excel-brown?logo=microsoftexcel)
 ![SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-red?logo=microsoftsqlserver)
-![SAS](https://img.shields.io/badge/-SAS-blue?logo=sas)
+![SAS](https://img.shields.io/badge/-SAS-green?logo=sas)
 ![Pandas](https://img.shields.io/badge/-Pandas-purple?logo=pandas)
 ![Tableau](https://img.shields.io/badge/-Tableau-orange?logo=tableau)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?logo=powerbi)

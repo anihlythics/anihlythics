@@ -9,9 +9,9 @@
 
 ### 📫 Socials
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/www.linkedin.com/in/john-anih-cj001)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/@Anihlytics)
 [![Medium](https://img.shields.io/badge/-Medium-black)](https://medium.com/@anihlythics)
 [![TikTok](https://img.shields.io/badge/-TikTok-red)](https://www.tiktok.com/@anihlytics_bi)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/@Anihlytics)
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python)

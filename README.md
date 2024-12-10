@@ -24,12 +24,5 @@ A **Data Scientist** saving the world one dataset at a time.
 
 ### 🖥 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anihlythics&layout=compact)
-
-- **Python**: 35%
-- **MySQL**: 27%
-- **R**: 15%
-- **JavaScript**: 13%
-- **CSS**: 10%
-- **HTML**: 5%
 ---
 

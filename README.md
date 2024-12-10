@@ -1,4 +1,4 @@
-# Hello there 👋, I'm John Chibuzor Anih (aka Anihlythics)
+# 💫Hello there 👋, I'm John Chibuzor Anih (aka Anihlythics)
 
 #**About ME:**
  A **Data Scientist** saving the world one dataset at a time.

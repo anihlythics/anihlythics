@@ -1,5 +1,3 @@
-<img src="https://github.com/anihlythics.png" alt="John Anih" align="left" width="215"/>
-
 # Hello there 👋, I'm John Chibuzor Anih (aka Anihlythics)
 
 #**About ME:**

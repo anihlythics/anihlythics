@@ -1,9 +1,6 @@
 <img src="https://github.com/anihlythics.png" alt="John Anih" align="left" width="215"/>
 
-
-
-
-# Hi there 👋, I'm John Chibuzor Anih (aka anihlythics)
+# Hello there 👋, I'm John Chibuzor Anih (aka Anihlythics)
 
 A **Data Scientist** saving the world one dataset at a time.
 

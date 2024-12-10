@@ -2,6 +2,8 @@
 
 A **Data Scientist** saving the world one dataset at a time.
 
+<img src="https://github.com/anihlythics.png" alt="John Anih" align="right" width="150"/>
+
 ### 🌟 About Me
 - 🎤 Fun fact: I am business-oriented and I play soccer.
 - 🔍 Passionate about solving complex problems through data analytics.

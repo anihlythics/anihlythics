@@ -2,10 +2,11 @@
 
 # 💫Hello there, I'm John Chibuzor Anih (aka Anihlythics)
 
- A **Data Scientist** saving the world one dataset at a time.
+ A **Data Analyst** saving the world one dataset at a time.
+Passionate about transforming data into impactful business solutions, enhancing operational efficiency, boosting performance in both technical and non-technical sectors, to resolving procurement, logistics, and quality control issues. 
 
-- 🎤 Fun fact: I am business-oriented and I play soccer.
-- 🔍 Passionate about solving complex problems through data analytics.
+- 🎤 Fun fact: I enjoy games, adventure trips, and I play soccer.
+- 🔍 Passionate about solving complex problems through data analysis and AI automations.
 
 ### 📫 Socials
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/www.linkedin.com/in/john-anih-cj001)

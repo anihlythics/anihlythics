@@ -1,5 +1,4 @@
-#**About ME:**
-
+**About ME:**
 # 💫Hello there, I'm John Chibuzor Anih (aka Anihlythics)
 🌍 A Data Analyst saving the world one dataset at a time.
 I specialise in transforming raw data into actionable insights that inform smarter decisions across finance, business, and healthcare. With a focus on efficiency and problem-solving, I create solutions that simplify procurement, optimise logistics, and improve quality standards—translating complex data into decisions that cut costs, manage risk, and drive long-term value.
